@@ -16,3 +16,6 @@ I dump raw stuff into `/raw`. AI turns it into clean notes in `/wiki`. That's it
 3. Read the updated `/wiki`.
 
 The whole folder is a git repo, so nothing is ever lost.
+
+## Youtube video
+https://www.youtube.com/watch?v=h0HYpONXgjk
